@@ -1,3 +1,3 @@
 # Git Test
 
-Testing out git
+Testing out git and github
